@@ -1,3 +1,4 @@
 # I-am-Java-learning
 
-bu gün variable ve değiken tiplerini öğrendim ilerleyen dersler ile devam edeceğim saat geç olduğu için diğer güne sarkacak yapısı  diğer diller ile aynı gibi
+bu gün veri tiplerini ve değişkenleri öğrendim tipler diğer diller ile aynı tanımlamalar farklı onun haricinde hello 
+world uygulamamı yazdım sonrasında variables örneği yaptım onlarıda buraya ekliyor olacağım
