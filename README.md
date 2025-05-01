@@ -10,3 +10,6 @@ bu gün şartlı ifadeleri çalıştım üç adet basit örnek yaptım if ve swi
 
 gün 3
 bu gün döngüleri öğrendim ve basit uygulamalar yaptım diğer dillerden de birikimim olduğu için hala zorlanmıyorum eğitmenin de faydası var bence
+
+gün 4 
+diziler arrays konusu öğrendim iki farklı örnek yaptım birisinde eski öğrendiklerimide akıldatutmak için olan bir örnek diğeri çok boyutlu dizilere örnek olacak şekilde dosyayı indirip inceleyebilirsiniz
