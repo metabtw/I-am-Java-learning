@@ -20,3 +20,11 @@ bu gün döngüleri öğrendim ve basit uygulamalar yaptım diğer dillerden de 
 
 #gün 4 :
 diziler arrays konusu öğrendim iki farklı örnek yaptım birisinde eski öğrendiklerimide akıldatutmak için olan bir örnek diğeri çok boyutlu dizilere örnek olacak şekilde dosyayı indirip inceleyebilirsiniz
+
+---
+
+#gün 5 :
+stringler ile çalışmak konusunu öğrendim çok fazla parametre varmış yani kullanışlı ifadeler ama 
+iş hayatımda kullanırmıyım bilemem 
+ekstra ifade ekleme metodu(mesaj.concat) kullanışlı belki mesaj.startsWith ve mesaj.endsWith de kullanılır
+banka ve şifre sistemlerinde uzunluk hesaplayan ifadelerde kullanılabilir
