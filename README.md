@@ -28,3 +28,14 @@ stringler ile çalışmak konusunu öğrendim çok fazla parametre varmış yani
 iş hayatımda kullanırmıyım bilemem 
 ekstra ifade ekleme metodu(mesaj.concat) kullanışlı belki mesaj.startsWith ve mesaj.endsWith de kullanılır
 banka ve şifre sistemlerinde uzunluk hesaplayan ifadelerde kullanılabilir
+
+---
+
+#gün 6 :
+2 gün ara verdim bu gün ise mini projeler dersi vardı derste 
+1.sayılar asalmı değilmi
+2.kalın ince sesli harfi ayıran uygulamalar
+3.mükemmel sayılar
+4.arkadaş sayılar
+ve 5. sayı bulma uygulamaları yaptım 
+saat biraz geç olduğu için dosyaları yükleme saatim diğer güne yüklemiş olacağım
