@@ -39,3 +39,9 @@ banka ve şifre sistemlerinde uzunluk hesaplayan ifadelerde kullanılabilir
 4.arkadaş sayılar
 ve 5. sayı bulma uygulamaları yaptım 
 saat biraz geç olduğu için dosyaları yükleme saatim diğer güne yüklemiş olacağım
+
+---
+
+#gün 7 : 
+metodları işledik bu konu biraz zor geldi açıkcası anlamakta biraz zorladım dersleri iki kere izledim sonra anladım 
+bu konu kendimizi tekrar etmemek için önemli bir konu 
