@@ -45,3 +45,8 @@ saat biraz geç olduğu için dosyaları yükleme saatim diğer güne yüklemiş
 #gün 7 : 
 metodları işledik bu konu biraz zor geldi açıkcası anlamakta biraz zorladım dersleri iki kere izledim sonra anladım 
 bu konu kendimizi tekrar etmemek için önemli bir konu 
+
+---
+
+#gün 8:
+class konusunu anlattı hoca diğer dillerden bildiğim için zorlanmadım 
