@@ -23,6 +23,14 @@ public class Main {
         sayilar1[0]=10;
         System.out.println(sayilar2[0]);
 
+
+        //reCapDemo_Classes
+
+        DortIslem dortIslem = new DortIslem();
+        int sonuc = dortIslem.Topla(3,4);
+        System.out.println(sonuc);
+
+
     }
 }
 
