@@ -50,3 +50,9 @@ bu konu kendimizi tekrar etmemek için önemli bir konu
 
 #gün 8:
 class konusunu anlattı hoca diğer dillerden bildiğim için zorlanmadım 
+
+---
+
+#gün 9 :
+
+endcapsulation konusunu işledik kullanışlı bir yapı ama zor bir konu getter ve setter komutlarını da öğrendim 
