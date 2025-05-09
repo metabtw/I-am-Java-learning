@@ -3,16 +3,18 @@
 public class Main {
     public static void main(String[] args) {
         Product product = new Product();
-        product.name = "Laptop";
-        product.id=1;
-        product.description = "samsung laptop";
-        product.price=51582;
-        product.stockAmount=2;
+        product.setName("Laptop");
+        product.setId(1);
+        product.setDescription("samsung laptop");
+        product.setPrice(51582);
+        product.setStockAmount(2);
+
 
         ProductManager productManager = new ProductManager();
         productManager.Add(product);
 
 
-        System.out.println(product.name);
+
+        System.out.println(product.getKod());
     }
 }
